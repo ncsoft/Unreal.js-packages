@@ -1,0 +1,8 @@
+{
+    "packages" : [
+        {
+            "name": "Test",
+            "details": "https://github.com/nakosung/test-package-unreal.js"
+        }
+    ]
+}
